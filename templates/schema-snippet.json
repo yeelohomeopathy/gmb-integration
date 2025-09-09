@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Pharmacy",
+  "name": "Yeelo Homeopathy - {{location}}",
+  "address": {
+    "streetAddress": "{{address}}",
+    "addressLocality": "{{location}}",
+    "addressRegion": "Haryana",
+    "postalCode": "122103",
+    "addressCountry": "IN"
+  },
+  "telephone": "{{phone}}",
+  "url": "https://yeelohomeopathy.com/haryana/gurgaon/{{location}}/homeopathy"
+}
