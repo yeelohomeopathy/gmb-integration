@@ -1,3 +1,11 @@
+# Yeelo Homeopathy – GMB Integration
+
+This repo connects our local SEO landing pages and Google My Business profile.
+
+## Linked Repos
+- [seo-json-data](https://github.com/yeelohomeopathy/seo-json-data) → JSON for Sohna villages & locations
+- [gmb-integration](https://github.com/yeelohomeopathy/gmb-integration) → Scripts, templates, SEO automation
+
 # GMB Integration – Yeelo Homeopathy
 
 Scripts and documentation for integrating Yeelo Homeopathy’s Google Business Profile (GMB) with local SEO landing pages.  
